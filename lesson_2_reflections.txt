@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: It creat a new folder named .git which can't be find directly throug the Finder. If we want to track our changes to the files and do the version control, we must run the git.init command.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Staging area is where you submit commits. It offers you the ability to decide which files you want to track.
