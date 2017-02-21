@@ -12,3 +12,6 @@ A: When I want to develop some experimental features which I'm not sure if I wou
 
 Q: How do the diagrams help you visualize the branch structure?
 A: Now I know the relationships between the branches. Every commit has its parent. You can't reach some commit that you created when you checked out older commit.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: After merge, we can track all the commits happend on both branches by run the command git log on the master.
