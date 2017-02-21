@@ -9,3 +9,6 @@ A: I can run the git diff command to see the differences between the files in wo
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: When I want to develop some experimental features which I'm not sure if I would publish them on the official versions, I can create branches.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Now I know the relationships between the branches. Every commit has its parent. You can't reach some commit that you created when you checked out older commit.
