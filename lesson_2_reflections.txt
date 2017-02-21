@@ -15,3 +15,6 @@ A: Now I know the relationships between the branches. Every commit has its paren
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: After merge, we can track all the commits happend on both branches by run the command git log on the master.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Sometimes Git can't understand which version you really want to choose. For example, if two people made some changes on the same lines, it's better to merge branches manually.
