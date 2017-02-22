@@ -1,0 +1,2 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: If I want to collaborate with someone on a project, I can use a remote to share the local commit history.
