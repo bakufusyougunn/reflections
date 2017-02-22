@@ -3,3 +3,6 @@ A: If I want to collaborate with someone on a project, I can use a remote to sha
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: Just like Git let you decide when to submit a commit, GitHub think you are exactly the person who knows when to pull the changes. And you decide whether or not to pull the changes.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Branches happen in my local repository, when I want to work on some experimental features, I can use branch. Clones happen both on local computer and GitHub. Forks only happen on GitHub. If I can't make changes on some repository, I can use fork.
