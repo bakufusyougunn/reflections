@@ -12,3 +12,6 @@ A: Everyone can make changes without worrying about merging problem.
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I can collaborate with others using Git or GitHub, this makes my work more easier.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: Althoug working directly in master can be easier than create a new branch, but if I'm want to listen the feedback from my friend, I will make changes in a branch and make a pull request.
